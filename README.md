@@ -1,4 +1,6 @@
-# UUApolloRequest
+
+# AsunApolloRequest
+
 
 [![CI Status](https://img.shields.io/travis/becomerichios@163.com/UUApolloRequest.svg?style=flat)](https://travis-ci.org/becomerichios@163.com/UUApolloRequest)
 [![Version](https://img.shields.io/cocoapods/v/UUApolloRequest.svg?style=flat)](https://cocoapods.org/pods/UUApolloRequest)
@@ -13,17 +15,18 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-UUApolloRequest is available through [CocoaPods](https://cocoapods.org). To install
+AsunApolloRequest is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'UUApolloRequest'
+pod 'AsunApolloRequest'
+>>>>>>> f90351da19e908d5a0f771099ce25a28bf2de078
 ```
 
 ## Author
 
-becomerichios@163.com, hongyang.zhong@uuabc.com
+becomerichios@163.com
 
 ## License
 
-UUApolloRequest is available under the MIT license. See the LICENSE file for more info.
+AsunApolloRequest is available under the MIT license. See the LICENSE file for more info.
