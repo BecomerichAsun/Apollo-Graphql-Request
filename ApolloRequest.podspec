@@ -16,11 +16,11 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source       = { :git => "http://git.uuabc.com/shengguo/ApolloHelper.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/BecomerichAsun/Apollo-Graphql-Request", :tag => s.version.to_s }
   
-  s.source_files  = 'ApolloRequest/Classes/**/*'
+  s.source_files  = 'AsunApolloRequest/Classes/**/*'
   
-  s.resources = 'ApolloRequest/Assets/loading.gif'
+  s.resources = 'AsunApolloRequest/Assets/loading.gif'
 
 
   s.frameworks = 'UIKit'
