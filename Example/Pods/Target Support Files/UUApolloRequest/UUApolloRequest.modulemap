@@ -1,0 +1,6 @@
+framework module UUApolloRequest {
+  umbrella header "UUApolloRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}

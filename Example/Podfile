@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AsunApolloRequest_Tests' do
+  pod 'AsunApolloRequest', :path => '../'
+  
+  
+end
